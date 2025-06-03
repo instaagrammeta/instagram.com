@@ -1,2 +1,2 @@
-# instagram.com
-instagram akaunt vastanavit
+# instaBot
+instagramBot
